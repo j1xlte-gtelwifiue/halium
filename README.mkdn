@@ -1,6 +1,8 @@
 Halium
 ===========
 
+This manifest is based off of [wecouldcalliteven/android](https://github.com/wecouldcalliteven/android) as [they](https://github.com/Exynos3475/android_device_samsung_j1xlte/tree/lineage-17.1) were having trouble with the latest one. See their repository for more details.
+
 Getting started
 ---------------
 
@@ -9,7 +11,7 @@ familiar with [Repo](https://source.android.com/source/using-repo.html) and [Ver
 
 To initialize your local repository using the Halium trees, use a command like this:
 ```
-repo init -u https://github.com/Halium/android.git -b halium-10.0 --depth=1
+repo init -u https://github.com/j1xlte-gtelwifiue/halium.git -b halium-10.0 --depth=1
 ```
 Then to sync up:
 ```
