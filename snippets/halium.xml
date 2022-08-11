@@ -6,7 +6,7 @@
   <!-- Halium additions -->
   <project path="hybris-patches" name="Halium/hybris-patches" revision="halium-10.0" />
   <project path="vendor/halium/config" name="Halium/android_vendor_halium_config" revision="halium-10.0" />
-  <project path="vendor/halium/devices" name="Halium/halium-devices" revision="halium-10.0">
+  <project path="vendor/halium/devices" name="j1xlte-gtelwifiue/halium-devices" revision="halium-10.0">
       <linkfile src="." dest="halium/devices" />
   </project>
   <project path="vendor/halium/audioflingerglue" name="Halium/audioflingerglue" revision="master" />
